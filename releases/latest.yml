@@ -1,8 +1,8 @@
-version: 1.0.15
+version: 1.0.16
 files:
-  - url: Refined-Motorsport-Setup-1.0.15.exe
-    sha512: Q3Gftv8k6TCEjrZBYGa6idQ44NalAO7WA2SHGpOKlpJYz72KDVZ08ytuIsuCPXetl47aUoWP+cu3dSxyQnn3Hg==
-    size: 100903293
-path: Refined-Motorsport-Setup-1.0.15.exe
-sha512: Q3Gftv8k6TCEjrZBYGa6idQ44NalAO7WA2SHGpOKlpJYz72KDVZ08ytuIsuCPXetl47aUoWP+cu3dSxyQnn3Hg==
-releaseDate: '2026-02-25T06:56:02.151Z'
+  - url: Refined-Motorsport-Setup-1.0.16.exe
+    sha512: M9Jm7ckmhT6Zt8/JbssANTiRxA3PvniMNYjhJCnD42k8dVZjPVDVkN1yNMoUBS0SwyUX2uj3VoZJ0OGz1pMh2w==
+    size: 100903677
+path: Refined-Motorsport-Setup-1.0.16.exe
+sha512: M9Jm7ckmhT6Zt8/JbssANTiRxA3PvniMNYjhJCnD42k8dVZjPVDVkN1yNMoUBS0SwyUX2uj3VoZJ0OGz1pMh2w==
+releaseDate: '2026-02-25T21:13:04.897Z'
